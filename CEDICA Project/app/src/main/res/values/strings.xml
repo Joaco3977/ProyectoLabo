@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aprendamos a limpiar</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="title_activity_main_menu">MainMenuActivity</string>
+    <string name="title_activity_perfil_terapeuta">PerfilTerapeutaActivity</string>
+    <string name="title_activity_elegir_terapeuta">ElegirTerapeutaActivity</string>
+    <string name="title_activity_about_us">AboutUsActivity</string>
+</resources>
